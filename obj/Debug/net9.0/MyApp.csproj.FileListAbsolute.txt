@@ -1,0 +1,14 @@
+C:\Pavan Goud\c#\GPA calculator\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\Pavan Goud\c#\GPA calculator\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\Pavan Goud\c#\GPA calculator\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\Pavan Goud\c#\GPA calculator\MyApp\bin\Debug\net9.0\MyApp.dll
+C:\Pavan Goud\c#\GPA calculator\MyApp\bin\Debug\net9.0\MyApp.pdb
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.dll
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Pavan Goud\c#\GPA calculator\MyApp\obj\Debug\net9.0\ref\MyApp.dll
